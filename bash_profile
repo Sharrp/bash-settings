@@ -1,7 +1,7 @@
 # Put this content into ~/.bash_profile and restart session
 
 # --- Edit prompt line ---
-# Dictionary: 
+# Syntax: http://ss64.com/bash/syntax-prompt.html
 PS1="\W: "
 
 # --- History settings ---
